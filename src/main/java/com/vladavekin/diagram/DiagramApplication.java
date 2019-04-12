@@ -8,7 +8,6 @@ public class DiagramApplication {
 
     public static void main(String[] args) {
 
-
         SpringApplication.run(DiagramApplication.class, args);
     }
 
